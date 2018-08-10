@@ -36,6 +36,6 @@ def turn_page
   puts "Flipping the page...wow, you read fast!"
 end 
 end
-wonder = Book.new("Wonder")
-wonder.author = "RJ Palacio"
-wonder.love
+# wonder = Book.new("Wonder")
+# wonder.author = "RJ Palacio"
+# wonder.love
